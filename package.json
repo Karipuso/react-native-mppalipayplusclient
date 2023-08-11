@@ -1,0 +1,42 @@
+{
+  "name": "react-native-mppalipayplusclient",
+  "title": "React Native Mppalipayplusclient",
+  "version": "1.4.0",
+  "description": "RN package which built-in simplified sdk",
+  "main": "src/index.ts",
+  "files": [
+    "README.md",
+    "android",
+    "ios",
+    "src",
+    "src/api",
+    "src/modules",
+    "react-native-mppalipayplusclient.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-mppalipayplusclient.git",
+    "baseUrl": "https://github.com/github_account/react-native-mppalipayplusclient"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "yourname@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}

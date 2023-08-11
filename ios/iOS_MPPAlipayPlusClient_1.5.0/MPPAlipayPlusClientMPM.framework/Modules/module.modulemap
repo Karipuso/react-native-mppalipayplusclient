@@ -1,0 +1,6 @@
+framework module MPPAlipayPlusClientMPM {
+  umbrella header "MPPAlipayPlusClientMPM.h"
+
+  export *
+  module * { export * }
+}

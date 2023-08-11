@@ -1,0 +1,6 @@
+framework module IAPTinyLogger {
+  umbrella header "IAPTinyLogger.h"
+
+  export *
+  module * { export * }
+}

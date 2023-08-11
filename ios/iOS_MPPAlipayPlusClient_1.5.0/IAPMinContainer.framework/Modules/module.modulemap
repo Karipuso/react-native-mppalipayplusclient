@@ -1,0 +1,6 @@
+framework module IAPMinContainer {
+  umbrella header "IAPMinContainer.h"
+
+  export *
+  module * { export * }
+}
